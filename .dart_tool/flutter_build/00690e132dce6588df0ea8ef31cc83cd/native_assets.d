@@ -1,0 +1,1 @@
+ C:\\Users\\Klerian\\Desktop\\WorkSpace\\Flutter\\formulario\\.dart_tool\\flutter_build\\00690e132dce6588df0ea8ef31cc83cd\\native_assets.yaml: 

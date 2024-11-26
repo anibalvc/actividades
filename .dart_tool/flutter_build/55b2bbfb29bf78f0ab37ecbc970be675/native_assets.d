@@ -1,0 +1,1 @@
+ C:\\Users\\Klerian\\Desktop\\WorkSpace\\Flutter\\actividades\\.dart_tool\\flutter_build\\55b2bbfb29bf78f0ab37ecbc970be675\\native_assets.yaml: 
